@@ -1,0 +1,129 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "BigPumper - 0",
+            "external_url": "",
+            "image": "https://media.discordapp.net/attachments/934173997367689280/963526634147815444/first_logo_transparent.png",
+            "name": "BigPumper - 0",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Nothing"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "description": "BigPumper - 1",
+            "external_url": "",
+            "image": "https://media.discordapp.net/attachments/934173997367689280/963526634147815444/first_logo_transparent.png",
+            "name": "BigPumper - 1",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Nothing"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "description": "BigPumper - 2",
+            "external_url": "",
+            "image": "https://media.discordapp.net/attachments/934173997367689280/963526634147815444/first_logo_transparent.png",
+            "name": "BigPumper - 2",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Nothing"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "description": "BigPumper - 3",
+            "external_url": "",
+            "image": "https://media.discordapp.net/attachments/934173997367689280/963526634147815444/first_logo_transparent.png",
+            "name": "BigPumper - 3",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Nothing"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "description": "BigPumper - 4",
+            "external_url": "",
+            "image": "https://media.discordapp.net/attachments/934173997367689280/963526634147815444/first_logo_transparent.png",
+            "name": "BigPumper - 4",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Nothing"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                }
+            ]
+        }
+    ]
+}
